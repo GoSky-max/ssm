@@ -6,6 +6,6 @@ package com.dragon.dao;
  */
 public class AccountDaoImpl {
     public static void main(String[] args) {
-
+        System.out.println("123");
     }
 }
